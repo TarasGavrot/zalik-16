@@ -1,0 +1,17 @@
+body{margin:0px;padding:0px;}
+.img1{position:absolute;width:100%;height:100%;}
+.img2{position:fixed;top:5%;left:8.5%;width:18%;height:23%;}
+form{position:fixed;top:35%;left:8.7%;width:100%;height:100%;}
+.button1{width:17.5%;height:6%;background:none;border:none;color:#b6b6b6;font-family:Arial;}
+.button1:hover{border:5px double #b6b6b6;}
+.img3{position:fixed;top:70%;left:8.5%;width:18%;height:26%;}
+a{position:fixed;text-decoration: none;top:93.5%;left:87%;color:#b6b6b6;font-family:Arial;}
+
+
+
+.img4{position:fixed;top:2%;width:30%;height:25%;}
+.img5{position:fixed;top:4%;left:72%;width:25%;height:30%;}
+textarea{position:fixed;top:73%;left: 2%;background:none;resize:none;color:#b6b6b6;font-family:Arial;font-size:14px;width:30%;height:15%;border:5px double #757223;}
+input{position:fixed;top:89%;left:2%;width:30%;height:3%;border:5px double #757223;}
+.button2{position:fixed;top:94%;left:2%;height:5%;border:5px double #black;background-color:black;color:#b6b6b6;}
+.button2:hover{border:5px double #b6b6b6;}
